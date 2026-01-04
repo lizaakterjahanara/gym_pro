@@ -1,2 +1,2 @@
 # gym_pro
-author-Jahanara akter
+author_jahanara akter
